@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashot Khachatryan
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently working as Flutter Developer
+- 💞️ I’m looking to collaborate on creating mobile apps 
+- 📫 How to reach me ... ashot199514@gmail.com
